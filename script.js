@@ -32,7 +32,6 @@ for (let i = 0; i < sentence.length; i++) {
     break;
   }
 }
-
 console.log("Length of sentence:", lengthCounter);
 console.log("Number of words:", wordCounter);
 console.log("Number of vowels:", vowelCounter);
